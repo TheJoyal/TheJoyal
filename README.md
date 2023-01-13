@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheJoyal
 - 👀 I’m interested in gaming, learning, and meeting people
-- 🌱 I’m currently learning python, java, c#, and HTML
+- 🌱 I’m currently learning python, java, and C++. I'm going to learn C# and more HTML in the future. (as well as CSS, Javascript, ect.)
 - 💞️ I’m looking to collaborate on something that helps me learn
 - 📫 How to reach me on Steam - (OMG)ImmortalLight
 
